@@ -1,7 +1,7 @@
 {
-  "name": "{{TOOL_NAME}}",
-  "short_name": "{{TOOL_SHORT_NAME}}",
-  "description": "{{TOOL_DESCRIPTION}}",
+  "name": "Morse Code Translator",
+  "short_name": "Morse",
+  "description": "Instantly translate text to Morse code and back, with audio playback. Free, no login required.",
   "icons": [
     {
       "src": "/favicon.svg",
@@ -22,7 +22,7 @@
       "purpose": "any maskable"
     }
   ],
-  "theme_color": "{{BRAND_COLOR}}",
+  "theme_color": "#f59e0b",
   "background_color": "#ffffff",
   "display": "standalone",
   "orientation": "portrait-primary",
